@@ -6,7 +6,7 @@ The source code is clone from https://github.com/vspiewak/log-generator and is m
 ## How to run the program
 To generator random log record every 5 seconds:
 
-java -jar log-generator-<version>.jar -n 1 -r 5000
+java -jar log-generator-\<version\>.jar -n 1 -r 5000
 ```
   Options:
         --help
